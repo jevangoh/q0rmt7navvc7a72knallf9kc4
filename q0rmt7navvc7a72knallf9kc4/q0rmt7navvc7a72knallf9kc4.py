@@ -1,19 +1,18 @@
 from __future__ import annotations
-from typing import Optional
 
-from uuid import UUID as Uuid
+from sqlmodel import Field
 
 import kac6tplvgexvn24jij4v7bhsc as Enumerator
+# import jp26pd7lv8fvuelvagg6penw5 as the_table_name
 
 
-class q0rmt7navvc7a72knallf9kc4(Enumerator._):
-    def __init__(self, level: int, string: str, id: Optional[Uuid] = None):
-        self.level: int = level
-        self.string: str = string
-        super().__init__(level, string, id=id)
+class Model(Enumerator._):
+    __tablename__ = "v3e11vve49m3hsodscsjvm9cr"
+    __table_args__ = {"extend_existing": True}
 
-    def to_level(self) -> int:
-        return self.level
+    level: int = Field(default=-1)
+    name: str = Field(default="")
+    method_name: str = Field(default="")
 
-    def to_string(self) -> str:
-        return self.string
+
+q0rmt7navvc7a72knallf9kc4 = Model
