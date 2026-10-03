@@ -45,7 +45,7 @@ environments:
         - pypi: https://files.pythonhosted.org/packages/99/91/8acff4f5e50511b911bbccb72b8628a49c68ce14148cd9f6431094859a90/annotated_types-0.8.0-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/eb/47/c95ffc2009878c7aac0c5e08528022dcb885933252a88b5f170058014464/pydantic-2.13.5-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/f7/b3/988928029b0e68de7ac587c2e1ccd379aa18e7c0aa7cc426628145a032fe/sqlmodel-0.0.47-py3-none-any.whl
-        - pypi: https://github.com/jevangoh/kac6tplvgexvn24jij4v7bhsc/releases/download/v0.0.2/kac6tplvgexvn24jij4v7bhsc-0.0.2-py3-none-any.whl
+        - pypi: https://github.com/jevangoh/kac6tplvgexvn24jij4v7bhsc/releases/download/v0.0.3/kac6tplvgexvn24jij4v7bhsc-0.0.3-py3-none-any.whl
         - pypi: https://github.com/jevangoh/skkrfl6asevwuubvfioii3hlm/releases/download/v0.0.1/skkrfl6asevwuubvfioii3hlm-0.0.1-py3-none-any.whl
       linux-aarch64:
         - conda: https://conda.anaconda.org/conda-forge/linux-aarch64/_openmp_mutex-4.5-20_gnu.conda
@@ -81,7 +81,7 @@ environments:
         - pypi: https://files.pythonhosted.org/packages/99/91/8acff4f5e50511b911bbccb72b8628a49c68ce14148cd9f6431094859a90/annotated_types-0.8.0-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/eb/47/c95ffc2009878c7aac0c5e08528022dcb885933252a88b5f170058014464/pydantic-2.13.5-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/f7/b3/988928029b0e68de7ac587c2e1ccd379aa18e7c0aa7cc426628145a032fe/sqlmodel-0.0.47-py3-none-any.whl
-        - pypi: https://github.com/jevangoh/kac6tplvgexvn24jij4v7bhsc/releases/download/v0.0.2/kac6tplvgexvn24jij4v7bhsc-0.0.2-py3-none-any.whl
+        - pypi: https://github.com/jevangoh/kac6tplvgexvn24jij4v7bhsc/releases/download/v0.0.3/kac6tplvgexvn24jij4v7bhsc-0.0.3-py3-none-any.whl
         - pypi: https://github.com/jevangoh/skkrfl6asevwuubvfioii3hlm/releases/download/v0.0.1/skkrfl6asevwuubvfioii3hlm-0.0.1-py3-none-any.whl
       win-64:
         - conda: https://conda.anaconda.org/conda-forge/noarch/ca-certificates-2026.7.22-h4c7d964_0.conda
@@ -112,7 +112,7 @@ environments:
         - pypi: https://files.pythonhosted.org/packages/eb/47/c95ffc2009878c7aac0c5e08528022dcb885933252a88b5f170058014464/pydantic-2.13.5-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/f7/3c/60674207246bc0a4009d2391b7c7251c7159f279c8d2ab8aae8ef46f3dee/pydantic_core-2.46.5-cp314-cp314-win_amd64.whl
         - pypi: https://files.pythonhosted.org/packages/f7/b3/988928029b0e68de7ac587c2e1ccd379aa18e7c0aa7cc426628145a032fe/sqlmodel-0.0.47-py3-none-any.whl
-        - pypi: https://github.com/jevangoh/kac6tplvgexvn24jij4v7bhsc/releases/download/v0.0.2/kac6tplvgexvn24jij4v7bhsc-0.0.2-py3-none-any.whl
+        - pypi: https://github.com/jevangoh/kac6tplvgexvn24jij4v7bhsc/releases/download/v0.0.3/kac6tplvgexvn24jij4v7bhsc-0.0.3-py3-none-any.whl
         - pypi: https://github.com/jevangoh/skkrfl6asevwuubvfioii3hlm/releases/download/v0.0.1/skkrfl6asevwuubvfioii3hlm-0.0.1-py3-none-any.whl
   dev:
     channels:
@@ -207,7 +207,7 @@ environments:
         - pypi: https://files.pythonhosted.org/packages/f7/b3/988928029b0e68de7ac587c2e1ccd379aa18e7c0aa7cc426628145a032fe/sqlmodel-0.0.47-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/fc/86/ce4288122111c11bb2483a962357baa9793817d48ac1e99ce5ff47384efe/markdown_gfm_admonition-0.3.0-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/fd/dc/e72a1449544aeffa3dbe878c6340bcec98ba4eebabe7a592414064b0ae8d/zensical-0.0.47-cp310-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
-        - pypi: https://github.com/jevangoh/kac6tplvgexvn24jij4v7bhsc/releases/download/v0.0.2/kac6tplvgexvn24jij4v7bhsc-0.0.2-py3-none-any.whl
+        - pypi: https://github.com/jevangoh/kac6tplvgexvn24jij4v7bhsc/releases/download/v0.0.3/kac6tplvgexvn24jij4v7bhsc-0.0.3-py3-none-any.whl
         - pypi: https://github.com/jevangoh/skkrfl6asevwuubvfioii3hlm/releases/download/v0.0.1/skkrfl6asevwuubvfioii3hlm-0.0.1-py3-none-any.whl
       linux-aarch64:
         - conda: https://conda.anaconda.org/conda-forge/linux-aarch64/_openmp_mutex-4.5-20_gnu.conda
@@ -295,7 +295,7 @@ environments:
         - pypi: https://files.pythonhosted.org/packages/f1/d9/7fb5aa316bc299258e68c73ba3bddbc499654a07f151cba08f6153988714/pathspec-1.1.1-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/f7/b3/988928029b0e68de7ac587c2e1ccd379aa18e7c0aa7cc426628145a032fe/sqlmodel-0.0.47-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/fc/86/ce4288122111c11bb2483a962357baa9793817d48ac1e99ce5ff47384efe/markdown_gfm_admonition-0.3.0-py3-none-any.whl
-        - pypi: https://github.com/jevangoh/kac6tplvgexvn24jij4v7bhsc/releases/download/v0.0.2/kac6tplvgexvn24jij4v7bhsc-0.0.2-py3-none-any.whl
+        - pypi: https://github.com/jevangoh/kac6tplvgexvn24jij4v7bhsc/releases/download/v0.0.3/kac6tplvgexvn24jij4v7bhsc-0.0.3-py3-none-any.whl
         - pypi: https://github.com/jevangoh/skkrfl6asevwuubvfioii3hlm/releases/download/v0.0.1/skkrfl6asevwuubvfioii3hlm-0.0.1-py3-none-any.whl
       win-64:
         - conda: https://conda.anaconda.org/conda-forge/noarch/ca-certificates-2026.7.22-h4c7d964_0.conda
@@ -366,7 +366,7 @@ environments:
         - pypi: https://files.pythonhosted.org/packages/f9/7a/7daaeadfdf7dc2941c8b931f9c6c83396d1da45634cec1a28f8d85a57708/zensical-0.0.47-cp310-abi3-win_amd64.whl
         - pypi: https://files.pythonhosted.org/packages/fc/86/ce4288122111c11bb2483a962357baa9793817d48ac1e99ce5ff47384efe/markdown_gfm_admonition-0.3.0-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/fd/a1/1b4233d255bdd0b38a1f284feeb1c143ca508c19184964e22f8d837ec851/mypy-1.20.2-cp314-cp314-win_amd64.whl
-        - pypi: https://github.com/jevangoh/kac6tplvgexvn24jij4v7bhsc/releases/download/v0.0.2/kac6tplvgexvn24jij4v7bhsc-0.0.2-py3-none-any.whl
+        - pypi: https://github.com/jevangoh/kac6tplvgexvn24jij4v7bhsc/releases/download/v0.0.3/kac6tplvgexvn24jij4v7bhsc-0.0.3-py3-none-any.whl
         - pypi: https://github.com/jevangoh/skkrfl6asevwuubvfioii3hlm/releases/download/v0.0.1/skkrfl6asevwuubvfioii3hlm-0.0.1-py3-none-any.whl
 packages:
   - conda: https://conda.anaconda.org/conda-forge/linux-64/_openmp_mutex-4.5-20_gnu.conda
@@ -2109,7 +2109,7 @@ packages:
   - pypi: .
     name: q0rmt7navvc7a72knallf9kc4
     requires_dist:
-      - kac6tplvgexvn24jij4v7bhsc>=0.0.2,<0.0.3
+      - kac6tplvgexvn24jij4v7bhsc>=0.0.3,<0.0.4
       - sqlmodel>=0.0.47,<0.0.48
     requires_python: ">=3.14"
   - pypi: https://files.pythonhosted.org/packages/12/28/f4424f618bd1f373761a32a821d53ce2c257350e9894bae9b968cb03d8fd/sqlalchemy-2.0.54-cp314-cp314-manylinux2014_aarch64.manylinux_2_17_aarch64.manylinux_2_28_aarch64.whl
@@ -2687,9 +2687,9 @@ packages:
       - pyyaml>=6.0.2
       - tomli>=2.4.0
     requires_python: ">=3.10"
-  - pypi: https://github.com/jevangoh/kac6tplvgexvn24jij4v7bhsc/releases/download/v0.0.2/kac6tplvgexvn24jij4v7bhsc-0.0.2-py3-none-any.whl
+  - pypi: https://github.com/jevangoh/kac6tplvgexvn24jij4v7bhsc/releases/download/v0.0.3/kac6tplvgexvn24jij4v7bhsc-0.0.3-py3-none-any.whl
     name: kac6tplvgexvn24jij4v7bhsc
-    version: 0.0.2
+    version: 0.0.3
     index: https://jevangoh.github.io/as1oocnl0leb61sj1yew20lt2/
     requires_dist:
       - skkrfl6asevwuubvfioii3hlm>=0.0.1,<0.0.2
